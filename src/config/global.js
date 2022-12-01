@@ -1,17 +1,46 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Desarrollo y ejecución de la evaluación de desempeño',
+    descripcionCurso:
+      'Desarrollar y ejecutar efectivamente la evaluación de desempeño del personal, es un factor fundamental, el cual, concatenado con la recopilación de datos, permite analizar adecuadamente la información y establecer planes de mejora continua, direccionados a las áreas con índices más bajos en las escalas de valoración, permitiéndole al talento humano, alcanzar los objetivos y metas propuestos por la organización.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/barra1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/barra2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/barra3.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/barra4.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5'],
+        imagen: require('@/assets/curso/portada/barra5.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-6'],
+        imagen: require('@/assets/curso/portada/barra6.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-7'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-8'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-9'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -32,30 +61,29 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Procedimiento técnico',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Validación del instrumento',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Recursos',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Implementación de la evaluación y recopilación de datos',
         desarrolloContenidos: true,
       },
     ],
@@ -101,32 +129,97 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Procedimiento técnico',
+      referencia:
+        'Universidad <em>ΙSΟ. (2019). ISO 9001: 2015 Proceso Procedimiento e Instrucción de Trabajo Documenting Processes and Procedures</em> (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=EMCD4yFRydw',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Implementación de la evaluación y recopilación de datos',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). <em>Analítica de datos</em> (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=eK0QG1SUk9A ',
+    },
+    {
+      tema: 'Implementación de la evaluación y recopilación de datos',
+      referencia:
+        'González, C. y Manzanares, C. (2020). <em>Sistemas de Gestión de la Calidad ISO 9001:</em> guía de aplicación. UNED - Universidad Nacional de Educación a Distancia. ',
+      tipo: 'Libro',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/162883',
+    },
+    {
+      tema: 'Implementación de la evaluación y recopilación de datos',
+      referencia:
+        'TEDx Talks. (2020). <em>La paradoja del feedback | Ricardo Mitrani | TEDxUNAMLeón</em> (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=0_FfaRltXTs',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Cuestionario',
+      significado: 'conjunto de preguntas que buscan evaluar una situación.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Credenciales',
+      significado:
+        'certificación que se le entrega a un usuario en donde se le notifican los permisos de acceso a la documentación.',
+    },
+    {
+      termino: 'Debilidad',
+      significado: 'carencia de cualidades o de vigor.',
+    },
+    {
+      termino: 'Emitir',
+      significado: 'manifestar por medio escrito o verbal, una opinión.',
+    },
+    {
+      termino: 'Experto',
+      significado:
+        'individuo que es muy hábil o cuenta con experiencia en alguna actividad.',
+    },
+    {
+      termino: 'Fortaleza',
+      significado: 'capacidad de enfrentar y sobrellevar obstáculos.',
+    },
+    {
+      termino: 'Fuente',
+      significado: 'origen de la información.',
+    },
+    {
+      termino: 'Informe',
+      significado: 'exposición sobre el estado de un proceso o un individuo.',
+    },
+    {
+      termino: 'Veredicto',
+      significado: 'dictamen o decisión final con relación a una temática.',
+    },
+    {
+      termino: 'Viabilidad',
+      significado: 'es la probabilidad de ejecutar con éxito un proyecto.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Flores Mendoza, R. L. y Cervantes Penagos, M. Á. (2019). <em>Evaluación del desempeño del Gobierno Corporativo</em>. Instituto Mexicano de Contadores Públicos.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/124949 ',
+    },
+    {
+      referencia:
+        'Hernández Martín, A. (Coord.) e Iglesias Rodríguez, A. (Coord.). (2020). <em>Evaluación de las competencias digitales de estudiantes de educación obligatoria. Diseño, validación y presentación de la prueba Ecodies.</em> Ediciones Octaedro, S.L.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/157700',
+    },
+    {
+      referencia:
+        'Pulido Romero, E., Escobar Domínguez, Ó. & Núñez Pérez, J. Á. (2019). Base de datos. Grupo Editorial Patria.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/121283',
     },
   ],
   creditos: {
