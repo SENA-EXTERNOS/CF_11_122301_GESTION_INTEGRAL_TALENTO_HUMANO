@@ -143,7 +143,7 @@
                 .col-7
                   figure
                     img(src='@/assets/curso/temas/tema1/t1-9.svg', alt='Texto que describa la imagen')
-              p.text-center Distribuir adecuadamente el tiempo, de acuerdo con las tareas y responsabilidades  asignadas.
+              p.text-center.mb-2 Distribuir adecuadamente el tiempo, de acuerdo con las tareas y responsabilidades  asignadas.
 
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.estilo-tarjeta.p-4               

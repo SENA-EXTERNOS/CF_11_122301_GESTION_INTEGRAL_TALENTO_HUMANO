@@ -113,6 +113,11 @@
             .col-12.ps-5
               p.mb-0 Al finalizar todo el proceso, los responsables de la estructuración y ejecución del proyecto de evaluación de desempeño de la organización, emiten el informe general, el cual consiste en retroalimentar a las partes interesadas, todos los pormenores relacionados con el proceso de ejecución, evidenciando las fortalezas y las dificultades enfrentadas, con la finalidad de obtener un insumo importante para la identificación de riesgos y oportunidades, para futuras evaluaciones, gracias a las lecciones aprendidas y a las buenas prácticas realizadas y utilizadas.
 
+      .row.justify-content-center.mb-3
+        .col-lg-10.justify-content-center(data-aos="flip-up")
+          .cajon.color-acento-contenido1.p-4
+            p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+
 </template>
 
 <script>
