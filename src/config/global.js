@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Desarrollo y ejecución de la evaluación de desempeño',
     descripcionCurso:
       'Desarrollar y ejecutar efectivamente la evaluación de desempeño del personal, es un factor fundamental, el cual, concatenado con la recopilación de datos, permite analizar adecuadamente la información y establecer planes de mejora continua, direccionados a las áreas con índices más bajos en las escalas de valoración, permitiéndole al talento humano, alcanzar los objetivos y metas propuestos por la organización.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
