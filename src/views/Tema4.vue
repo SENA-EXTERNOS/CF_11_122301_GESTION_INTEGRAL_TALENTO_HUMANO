@@ -51,7 +51,7 @@
         img(src='@/assets/curso/temas/tema4/t4-4.svg', alt='Texto que describa la imagen').animacion-flotante
       .col-lg-10
         p Existen diferentes estrategias para recopilar la información, con relación a la evaluación de desempeño; la elección está relacionada con el método de evaluación que es ejecutado en la organización y, por este motivo, es importante tener en cuenta los siguientes métodos para reunir datos:
-    //terminar avatar-----------------------
+
     .row.justify-content-center.mb-5
       .col-auto.position-relative
         .avatar
@@ -90,7 +90,6 @@
               h3 Observaciones
               p Este proceso consta de la visualización constante del comportamiento de las personas a evaluar, mediante registros periódicos en una planilla de campo, de forma ordenada, la cual permite registrar los resultados para el adecuado análisis del cumplimiento de los objetivos. 
 
-    //----------------------------------
     .row.justify-content-center.mt-3
       .col-lg-10
         .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-5
