@@ -26,31 +26,24 @@
               img(data-aos="flip-left" src='@/assets/curso/temas/tema3/t3-2.svg', alt='Texto que describa la imagen')
 
           .tarjeta.estilo-cajon.p-3(x="25.6%" y="95.6%" numero="+")
-            h3 Recursos tecnológicos
             p En este tipo de recursos, se encuentran los #[em software] y las herramientas tecnológicas que son utilizadas para optimizar el desempeño de los colaboradores y, en este contexto, la ejecución de la evaluación de desempeño.
           
           .tarjeta.estilo-cajon.p-3(x="2.7%" y="54.5%" numero="+")
-            h3 Recursos materiales
             p Se definen como los bienes tangibles con los que cuenta la organización para la consecución de los objetivos; en este sentido, se tienen en cuenta las herramientas, muebles e inmuebles, vehículos, materia prima, maquinaria, entre otros, los cuales son recursos indispensables para la ejecución de la evaluación de desempeño.
 
           .tarjeta.estilo-cajon.p-3(x="16.9%" y="17.5%" numero="+")
-            h3 Recursos humanos
             p Este tipo de recurso está ligado al personal que tiene relación con la organización; en este sentido, los colaboradores son el principal insumo para gestionar y utilizar los demás recursos, para la consecución de los objetivos.
 
           .tarjeta.estilo-cajon.p-3(x="50.5%" y="2.8%" numero="+")
-            h3 Recursos tangibles
             p Se definen como los recursos que son fácilmente cuantificables y medibles, mediante indicadores o valores monetarios, como son los materiales, dinero, tecnología, etc.
 
           .tarjeta.estilo-cajon.p-3(x="83.5%" y="18%" numero="+")
-            h3 Recursos intangibles
             p Este concepto hace referencia a los recursos que no son cuantificables, pero tienen impacto en el desarrollo de los proyectos como son la motivación, el clima organizacional y la imagen corporativa de la empresa.
 
           .tarjeta.estilo-cajon.p-3(x="97.5%" y="54.5%" numero="+")
-            h3 Recursos financieros propios
             p Este tipo de recurso hace mención a la capacidad económica con la que cuenta la organización o la entidad que se encuentre designada para la ejecución del proyecto específico.
 
           .tarjeta.estilo-cajon.p-3(x="74.4%" y="96.5%" numero="+")
-            h3 Recursos financieros de terceros
             p Este tipo de recurso también hace referencia a la capacidad económica que esté designada para la ejecución de proyecto; sin embargo, los fondos provienen de otras organizaciones o préstamos obtenidos.           
 
     .row.justify-content-center.mt-5

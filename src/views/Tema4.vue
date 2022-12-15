@@ -16,13 +16,13 @@
               p Antes de dar inicio al proceso de la evaluación de desempeño, es importante tener cuenta todo lo relacionado con el despliegue logístico y conceptual, dando claridad a los involucrados sobre cuáles son las responsabilidades y los recursos que serán utilizados, para que estas personas garanticen el debido proceso en la ejecución de la medición al interior de la organización.
 
       .row.justify-content-center.mt-4
-        p En el procedimiento técnico de la evaluación de desempeño, se deben tener en cuenta los siguientes factores:
+        p Es importante tener en cuenta:
         .col-lg-8
           TabsA.color-acento-contenido
             .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Objetivo y alcance")
               .row.p-4
                 .col-auto
-                  p Previo a la implementación de la evaluación de desempeño, los integrantes del equipo de apoyo deben estar contextualizados con relación al contenido de este instrumento, con el objetivo de obtener la capacidad de brindar todas la pautas necesarias a los evaluadores y atender todo tipo de inquietudes que puedan surgir antes de la salida en vivo de esta medición; este proceso garantiza que disminuya la probabilidad de equivocaciones o contratiempos, en la ejecución de la evaluación de desempeño.
+                  p Si bien es cierto, que el desarrollo de la evaluación de desempeño debe estar alineada con las necesidades de la organización, tenemos que, con los objetivos establecidos al interior del proceso, se dictactamina el camino a seguir para la ejecución de la evaluación, con la finalidad de alcanzar la meta que se encuentre pactada al interior de la organización, permitiendo garantizar que los resultados sean fiables y aporten eficacia a las personas encargadas de realizar el análisis; además, establecer los objetivos y alcances se refiere al punto de partida para establecer seguimientos y controles con respecto al cumplimiento del procedimiento de evaluación de desempeño; todo lo anterior, buscando identificar los puntos débiles y las fortalezas, para impulsar el crecimiento organizacional y profesional de los colaboradores.
             .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Contextualización del contenido")
               .row.p-4
                 .col-auto

@@ -217,7 +217,7 @@ export default {
     },
     {
       referencia:
-        'Pulido Romero, E., Escobar Domínguez, Ó. & Núñez Pérez, J. Á. (2019). Base de datos. Grupo Editorial Patria.',
+        'Pulido Romero, E., Escobar Domínguez, Ó. & Núñez Pérez, J. Á. (2019). <em>Base de datos</em>. Grupo Editorial Patria.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/121283',
     },

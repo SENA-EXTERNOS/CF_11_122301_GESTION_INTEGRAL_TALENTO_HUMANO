@@ -38,7 +38,7 @@
           .py-3.py-md-4(titulo="Procedimiento técnico administrativo")
             .row.p-4
               .col-md-8.mb-4.mb-md-0
-                p Esta clase de procedimientos técnicos ,son comunes en todo tipo de empresas, sin distinción de su objeto económico, puesto que, en todas la organizaciones, se deben realizar labores administrativas, las cuales son llevadas a cabo por los colaboradores, a quienes les son asignados estos tipos de roles; por este motivo, los procedimientos técnicos optimizan las actividades en las labores documentales, permitiéndoles a los miembros de la organización ser ágiles y eficientes en el desarrollo de su trabajo, dado que los objetivos establecidos retan a los colaboradores para que sean competitivos y comprendan la importancia de los procedimientos, los cuales se encuentran encaminados a la mejora continua de la organización.
+                p Esta clase de procedimientos técnicos, son comunes en todo tipo de empresas, sin distinción de su objeto económico, puesto que, en todas las organizaciones, se deben realizar labores administrativas, las cuales son llevadas a cabo por los colaboradores, a quienes les son asignados estos tipos de roles; por este motivo, los procedimientos técnicos optimizan las actividades en las labores documentales, permitiéndoles a los miembros de la organización ser ágiles y eficientes en el desarrollo de su trabajo, dado que los objetivos establecidos retan a los colaboradores para que sean competitivos y comprendan la importancia de los procedimientos, los cuales se encuentran encaminados a la mejora continua de la organización.
               .col-md-4
                 figure
                   img(src='@/assets/curso/temas/tema1/t1-12.svg', alt='Texto que describa la imagen') 
@@ -98,19 +98,15 @@
               img(data-aos="flip-left" src='@/assets/curso/temas/tema1/t1-6.svg', alt='Texto que describa la imagen')
 
           .tarjeta.estilo-cajon.p-3(x="14.5%" y="5%" numero="+")
-            h3 Confiabilidad de la información
             p Hace referencia a la metodología correcta que se usa para la toma de datos.
           
           .tarjeta.estilo-cajon.p-3(x="62.5%" y="5%" numero="+")
-            h3 Medibles en el tiempo
             p Hace referencia a la cuantificación de esta información, de acuerdo con periodos previamente establecidos y objetivos propuestos.
 
           .tarjeta.estilo-cajon.p-3(x="36.5%" y="94%" numero="+")
-            h3 Precisión
             p Establece que los puntos a medir sean claros para los evaluadores.
 
           .tarjeta.estilo-cajon.p-3(x="86.5%" y="95%" numero="+")
-            h3 Periodicidad
             p Establece la frecuencia en la que los datos son revisados y evaluados.
 
     .row.justify-content-start.align-items-center.mb-5.mt-5        
@@ -155,9 +151,11 @@
 
     .row.justify-content-center
       p.mt-5 Por este motivo, la organización debe contar con un personal competente para el desarrollo y administración de estos procesos. 
+      p.mb-4 Al mismo tiempo, es importante que los actores involucrados conozcan las siguientes recomendaciones para la adecuada administración documental:
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.mt-3
       .row
+        
         .col-lg-4
             img(src='@/assets/curso/temas/tema1/t1-11.svg', alt='Texto que describa la imagen')         
         .col-lg-8.mt-3
@@ -186,7 +184,7 @@
                     | Confidencial: está directamente relacionada a un grupo de individuos que pueden visualizarla y modificarla, de acuerdo con la sensibilidad de la información.          
             .row(titulo="Almacenamiento")
               .col-12.ps-5
-                p.mb-0 Almacenamiento Se define como el proceso digital o físico donde se graban, archivan y guardan los documentos que contienen información relacionada con la organización; es por esto que, en el procedimiento de control de la documentación, la organización debe prever quién será el responsable del almacenamiento de la información documentada, como evidencia del Sistema de Gestión de la Calidad, asegurando su autenticidad, integridad y disponibilidad, durante el tiempo establecido; esto con el fin de definir permisos de acceso de acuerdo con los roles y responsabilidades de los colaboradores y con el objetivo de evitar todo tipo de modificaciones y destrucciones no intencionadas.
+                p.mb-0 Se define como el proceso digital o físico donde se graban, archivan y guardan los documentos que contienen información relacionada con la organización; es por esto que, en el procedimiento de control de la documentación, la organización debe prever quién será el responsable del almacenamiento de la información documentada, como evidencia del Sistema de Gestión de la Calidad, asegurando su autenticidad, integridad y disponibilidad, durante el tiempo establecido; esto con el fin de definir permisos de acceso de acuerdo con los roles y responsabilidades de los colaboradores y con el objetivo de evitar todo tipo de modificaciones y destrucciones no intencionadas.
             .row(titulo="Permisos de acceso")
               .col-12.ps-5
                 p.mb-0 La organización debe establecer las formas de acceso a la información documentada, dependiendo de la operación que se quiera llevar a cabo, como puede ser la creación, revisión, actualización o destrucción de documentos; por este motivo, es que se deben aplicar controles mediante tablas de acceso o portales designados, con el fin de proteger la información, de conformidad con la confidencialidad que ella tiene y de actos no intencionados.
