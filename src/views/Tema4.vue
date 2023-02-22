@@ -13,7 +13,7 @@
           .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-5
             .blq1.bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/t4-1.svg')})`}")
             .bloque-texto-g__texto.p-4
-              p Antes de dar inicio al proceso de la evaluación de desempeño, es importante tener cuenta todo lo relacionado con el despliegue logístico y conceptual, dando claridad a los involucrados sobre cuáles son las responsabilidades y los recursos que serán utilizados, para que estas personas garanticen el debido proceso en la ejecución de la medición al interior de la organización.
+              p Antes de dar inicio al proceso de la evaluación de desempeño, es importante tener en cuenta todo lo relacionado con el despliegue logístico y conceptual, dando claridad a los involucrados sobre cuáles son las responsabilidades y los recursos que serán utilizados, para que estas personas garanticen el debido proceso en la ejecución de la medición al interior de la organización.
 
       .row.justify-content-center.mt-4
         p Es importante tener en cuenta:
