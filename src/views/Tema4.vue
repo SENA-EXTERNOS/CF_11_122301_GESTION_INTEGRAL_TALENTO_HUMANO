@@ -22,7 +22,7 @@
             .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Objetivo y alcance")
               .row.p-4
                 .col-auto
-                  p Si bien es cierto, que el desarrollo de la evaluación de desempeño debe estar alineada con las necesidades de la organización, tenemos que, con los objetivos establecidos al interior del proceso, se dictactamina el camino a seguir para la ejecución de la evaluación, con la finalidad de alcanzar la meta que se encuentre pactada al interior de la organización, permitiendo garantizar que los resultados sean fiables y aporten eficacia a las personas encargadas de realizar el análisis; además, establecer los objetivos y alcances se refiere al punto de partida para establecer seguimientos y controles con respecto al cumplimiento del procedimiento de evaluación de desempeño; todo lo anterior, buscando identificar los puntos débiles y las fortalezas, para impulsar el crecimiento organizacional y profesional de los colaboradores.
+                  p Si bien es cierto, que el desarrollo de la evaluación de desempeño debe estar alineada con las necesidades de la organización, tenemos que, con los objetivos establecidos al interior del proceso, se dictamina el camino a seguir para la ejecución de la evaluación, con la finalidad de alcanzar la meta que se encuentre pactada al interior de la organización, permitiendo garantizar que los resultados sean fiables y aporten eficacia a las personas encargadas de realizar el análisis; además, establecer los objetivos y alcances se refiere al punto de partida para establecer seguimientos y controles con respecto al cumplimiento del procedimiento de evaluación de desempeño; todo lo anterior, buscando identificar los puntos débiles y las fortalezas, para impulsar el crecimiento organizacional y profesional de los colaboradores.
             .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Contextualización del contenido")
               .row.p-4
                 .col-auto
@@ -80,7 +80,7 @@
                 img(src="@/assets/curso/temas/tema4/t4-7.svg", alt="alt").numero
             .col
               h3 Prueba
-              p Este método consta en realizar pruebas basadas en los estándares estipulados en las fichas técnicas de la organización, con el fin de determinar la habilidades físicas, cognitivas y actitudinales de los participantes; con relación a este método, la información puede ser recopilada por medios físicos o digitales.
+              p Este método consta en realizar pruebas basadas en los estándares estipulados en las fichas técnicas de la organización, con el fin de determinar las habilidades físicas, cognitivas y actitudinales de los participantes; con relación a este método, la información puede ser recopilada por medios físicos o digitales.
         .crd.crd--avatarHorizontal.crd--last2.py-4
           .row.align-items-center
             .col-auto
